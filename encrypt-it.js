@@ -2,6 +2,7 @@
  * Starter file
  */
 console.log("window loaded!");
+<script>src="index.html"</script>
 (function() {
   "use strict";
 

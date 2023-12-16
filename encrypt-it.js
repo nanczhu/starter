@@ -1,6 +1,7 @@
 /*
- * Starter file 
+ * Starter file
  */
+console.log("window loaded!");
 (function() {
   "use strict";
 
